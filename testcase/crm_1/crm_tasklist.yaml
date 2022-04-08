@@ -1,0 +1,10 @@
+-
+  name: 首页全部任务列表
+  request:
+    method: post
+    url: /OaRecord/getOaRecordPageList
+    data:
+      type: 0
+      page: 1
+      limit: 15
+  validate: None

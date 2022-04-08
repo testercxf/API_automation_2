@@ -1,0 +1,9 @@
+-
+  name: 悟空crm登录
+  request:
+    method: post
+    url: /login
+    data:
+      username: 17628231114
+      password: 123456
+  validate: None

@@ -1,0 +1,12 @@
+-
+  name: 办公_我的任务
+  request:
+    method: post
+    url: /task/queryTaskList
+    data:
+      status: 1
+      priority: ""
+      limit: 15
+      page: 1
+      search: ""
+  validate: None

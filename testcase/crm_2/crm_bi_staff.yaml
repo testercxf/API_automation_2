@@ -1,0 +1,10 @@
+-
+  name: 商业智能_查询员工客户信息
+  request:
+    method: post
+    url: /biCustomer/totalCustomerTable
+    data:
+      deptId: 1
+      userId: 9
+      type: year
+  validate: None

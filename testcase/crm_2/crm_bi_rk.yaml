@@ -1,0 +1,9 @@
+-
+  name: 商业智能_本年回款金额排行榜
+  request:
+    method: post
+    url: /biRanking/receivablesRanKing
+    data:
+      deptId: 1
+      type: year
+  validate: None

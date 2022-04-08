@@ -1,0 +1,11 @@
+-
+  name: 办公_审批
+  request:
+    method: post
+    url: /OaExamine/myInitiate
+    data:
+      page: 1
+      limit: 15
+      categoryId: ""
+      checkStatus: ""
+  validate: None

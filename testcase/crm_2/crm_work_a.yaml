@@ -1,0 +1,10 @@
+-
+  name: 办公_公告列表
+  request:
+    method: post
+    url: /OaAnnouncement/queryList
+    data:
+      type: 1,
+      page: 1,
+      limit: 15
+  validate: None

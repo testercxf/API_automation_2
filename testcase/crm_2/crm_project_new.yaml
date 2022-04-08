@@ -1,0 +1,12 @@
+-
+  name: 项目管理_创建项目
+  request:
+    method: post
+    url: /work/setWork
+    data:
+      name: 1
+      scription: 1
+      color: "%2353D397"
+      isOpen: 0
+      ownerUserId: 9
+  validate: None

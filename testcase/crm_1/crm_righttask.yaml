@@ -1,0 +1,6 @@
+-
+  name: 右边任务展示
+  request:
+    method: post
+    url: /OaRecord/queryTask
+  validate: None

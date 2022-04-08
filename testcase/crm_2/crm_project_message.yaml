@@ -1,0 +1,8 @@
+-
+  name: 项目管理_项目信息
+  request:
+    method: post
+    url: /work/getWorkById
+    data:
+      workId: 6
+  validate: None

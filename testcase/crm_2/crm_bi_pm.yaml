@@ -1,0 +1,11 @@
+-
+  name: 商业智能_2021年业绩目标完成情况
+  request:
+    method: post
+    url: /bi/taskCompleteStatistics
+    data:
+      year: 2021
+      type: 1
+      deptId: 1
+      userId:
+  validate: None

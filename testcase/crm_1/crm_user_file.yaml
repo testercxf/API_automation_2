@@ -1,0 +1,10 @@
+-
+  name: 悟空crm文件上传
+  request:
+    method: post
+    url: /system/user/updateImg
+    files:
+        file: 'C:/Users/28918/Desktop/图片/g.jpg'
+    data:
+     userId: 9
+  validate: None

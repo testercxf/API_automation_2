@@ -1,0 +1,7 @@
+-
+  name: 项目管理_回收站
+  request:
+    method: post
+    url: /workTrash/queryList
+    data: None
+  validate: None
